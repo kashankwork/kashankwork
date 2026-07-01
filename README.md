@@ -15,7 +15,7 @@ I build practical software across full-stack development, cloud tooling, and app
 * 🎓 Computer Science student at Wayne State University
 * 💻 Interested in full-stack development and applied AI
 * 🚀 Building projects that provide solutions to real-world problems
-* 🌐 Explore my work on my [portfolio website](YOUR-PORTFOLIO-LINK)
+* 🌐 Explore my work on my [portfolio website](https://portfolio-kappa-ruby-44.vercel.app/)
 
 ## What I’m Building
 
