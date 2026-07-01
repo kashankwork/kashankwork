@@ -2,7 +2,7 @@
 
 # Hey, I’m Kashan Khan 👋
 
-### Computer Science Student · Software Engineer
+### Software Engineer
 
 I build practical software across full-stack development, cloud tooling, and applied machine learning.
 
